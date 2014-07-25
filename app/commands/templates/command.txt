@@ -1,0 +1,18 @@
+<?php
+
+
+
+namespace  %namespace%\%model%;
+
+
+class %commandname% {
+
+       %publicfields%
+
+
+	function __construct (%varibles%)
+	{
+		%innerfields%
+	}
+
+} // End of Class

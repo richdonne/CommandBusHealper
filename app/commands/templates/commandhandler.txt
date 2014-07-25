@@ -1,0 +1,26 @@
+<?php
+
+
+
+namespace  %namespace%\%model%;
+
+
+use %namespace%\Commander\CommandHandler;
+
+class %commandname%  implements commandhandler{
+
+	/**
+	 * Handle the command
+	 *
+	 * @param $command
+	 *
+	 * @return mixed
+	 */
+
+	public function handle ($command)
+	{
+
+        //ToDo - The Rest of your Work Goes here
+
+
+	}}
